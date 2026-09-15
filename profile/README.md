@@ -1,31 +1,23 @@
-# 🛠️ Builtnoble
+# Builtnoble
 
-**Builtnoble** is where I build and share open-source projects that emphasize clarity, maintainability, and modern development practices.
+Full-stack developer by day, occasional guitarist and stargazer by night; Builtnoble is where that all comes together in code.
 
-Most of the work here explores tools, libraries, and applications built with **PHP**, **TypeScript**, and related technologies — including frameworks like **Laravel**, **React**, **Bun**, and **Vite**. Some PHP projects are more bespoke and don’t rely entirely on the Laravel ecosystem, instead experimenting with frameworks like **Mezzio** or custom architectures.
+I've spent close to two decades building with PHP and Laravel, alongside hands-on work in Node, Express, React, and Vue. The projects here mostly live in that world - some built the conventional Laravel way, others more bespoke, experimenting with frameworks like Mezzio or custom architectures instead. There's also a growing TypeScript side to things, with tools like Bun and Vite in the mix.
 
----
+What ties it together isn't the stack; it's the habit of writing code that's clear, intentional, and built to last, and staying curious enough to keep picking up something new.
 
-## ✨ Philosophy
+## Philosophy
 
 > Build well. Build with purpose.
 
-I approach open-source as a way to practice craftsmanship — writing code that’s clear, intentional, and useful to others.  
-Builtnoble exists to document that process and share the results.
+## Contributing
 
----
+Contributions, suggestions, and discussions are always welcome. Each repository includes its own CONTRIBUTING.md with setup and guidelines specific to that project.
 
-## 🤝 Contributing
+If something here is useful to you, consider opening an issue or pull request, or leaving a star.
 
-Contributions, suggestions, and discussions are always welcome.  
-Each repository will include its own **CONTRIBUTING.md** with setup and guidelines.
+## License
 
-If you find something helpful, consider opening an issue or a pull request — or just leaving a ⭐ to show support.
+Unless stated otherwise, all repositories under Builtnoble are released under the MIT License.
 
----
-
-## 🧠 License
-
-Unless stated otherwise, all repositories under Builtnoble are released under the **MIT License**.
-
-Made with ❤️ by [@mandicap](https://github.com/mandicap)
+*Amanda Romero ([@mandicap](https://github.com/mandicap))*
